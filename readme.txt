@@ -30,6 +30,9 @@ A clean and professional Hugo-based portfolio and personal site template with pr
 
 ---
 
+Download All as Zip
+https://github.com/itsmardan/branding-kits.git 
+
  🛠️ Prerequisites
 
 To use and deploy any of the templates, make sure you have the following:
